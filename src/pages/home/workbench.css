@@ -1,0 +1,10 @@
+.blue {
+  color: #0000FF;
+}
+.noramlWord {
+  font-size: 14px;
+  font-weight: normal;
+}
+.ant-card-body {
+  padding-top: 15px;
+}

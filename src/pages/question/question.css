@@ -1,0 +1,30 @@
+.ant-form-item-label label{
+    font-weight: normal!important;
+}
+.blue-round{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    background: #55ccf4;
+    cursor: pointer;
+}
+.red-round{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    background: #ec465a;
+    cursor: pointer;
+}
+.yellow-round{
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    background: #febc11;
+    cursor: pointer;
+}
+.ant-timeline-item-last{
+    padding-bottom: 0;
+}
+.ant-modal-body{
+    padding-bottom: 0;
+}
